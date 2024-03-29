@@ -16,7 +16,6 @@ int main() {
 
 	cout << "Enter all values followd by E0F:  "; // End-0f file
 
-
 	string max = "";
 	string min = "";
 
